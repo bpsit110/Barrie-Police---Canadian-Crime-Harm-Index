@@ -1,0 +1,1 @@
+The CSI weights_Poids IGC_2022.xlsx file contains the updated Crime Severity Index (CSI) weights for Uniform Crime Reporting (UCR) violations. Indexed weights are available for the years 1998 through 2026. The Barrie Police Service utilizes data from this resource to calculate "Harm Scores" as part of its Evidence-Based Policing practices.
